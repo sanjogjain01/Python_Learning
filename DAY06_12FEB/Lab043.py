@@ -1,7 +1,9 @@
-For
-# While
+
+#we made change in this file
+# if
 # If else
 # If elif else
+# While
 # Switch - Python x -> MATCH and case
 
 # Break, Continue
@@ -11,4 +13,4 @@ For
 # 3. Built Functions
 # *args and **kwargs
 # Lambda Expression - solve problems of writing long functions -> oneline
-# Last - Question -> Anwsers
+# Last - Question -> Answers
