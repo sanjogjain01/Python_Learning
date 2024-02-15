@@ -1,7 +1,7 @@
 # while
 
 # Calculate the sum of numbers until user enters 0
-
+# program 1
 num = int(input("enter the numbers"))
 total = 0
 while num != 0:
@@ -9,3 +9,4 @@ while num != 0:
     num = int(input("enter the numbers"))
 print('The sum is', total)
 
+# program 2
