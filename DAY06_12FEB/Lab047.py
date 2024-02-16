@@ -1,5 +1,5 @@
 #while
-# while loop statement in Python programming language
+#  loop statement in Python programming language
 # repeatedly executes a target statement as long as a given boolean expression is true.
 # Program 1
 '''i = 0

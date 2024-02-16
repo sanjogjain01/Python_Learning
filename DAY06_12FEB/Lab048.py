@@ -9,4 +9,3 @@ while num != 0:
     num = int(input("enter the numbers"))
 print('The sum is', total)
 
-# program 2
