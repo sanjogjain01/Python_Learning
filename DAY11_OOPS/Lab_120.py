@@ -56,4 +56,3 @@ class C(Cal):
 ob = C(200)
 ob.Add()
 ob.Sub()
-
