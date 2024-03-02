@@ -1,6 +1,8 @@
 # Suppose this animal Module
-def fly():
-    print("animal al cant fly")
 
-def color():
-    print("This is colour function for animal module")
+class B:
+    def fly(self):
+        print("animal al cant fly")
+
+    def color(self):
+        print("This is colour function for animal module")

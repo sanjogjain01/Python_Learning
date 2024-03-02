@@ -1,9 +1,9 @@
-from Lab_124 import *
+import Lab_124
+from DAY12_Module_Package.Lab_125 import B
 
-fly()
-color()
+Ob = Lab_124.A()
+Ob.color()
 
-from Lab_125 import *
 
-fly()
-color()
+Ob2 = B()
+Ob2.fly()
