@@ -9,8 +9,6 @@ def remove_digits(input_string):
 
     return result_string
 
-
-# Example usage
 input_string = input("Enter a string: ")
 result = remove_digits(input_string)
 
